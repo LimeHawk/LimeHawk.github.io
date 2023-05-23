@@ -12,7 +12,6 @@
 - [Layout](#layout)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Collaborators](#collaborators)
 - [Contribute](#contribute)
 
 ## Layout
@@ -39,7 +38,6 @@ Clone the repository to your local machine:
 git clone https://github.com/LimeHawk/LimeHawk.github.io
 ```
 
-## contribute
 <h2 id="contribute">📫 Contribute</h2>
 
 Follow the pattern and the guide below
