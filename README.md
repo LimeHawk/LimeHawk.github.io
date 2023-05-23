@@ -17,7 +17,7 @@
 
 ## Layout
 <p align="center">
-    <img src="./assets/images/demonstrarion.gif" alt="Image Example" width="400px">
+    <img src="./assets/images/Screenshot_1.png" alt="Image Example" width="400px">
     
 </p>
 
