@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: url(../images/Cal.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+main {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    height: 100vh;
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: #e5e5e5;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-photo {
+    padding: 13.5em;
+    background: url(../images/8bab2b_a243e55862764c2498139448817fe596~mv2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.card-content {
+    padding: 5px;
+    text-align: center;
+}
+
+.card-title h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #191919;
+}
+
+.card-info {
+    text-align: left;
+}
+
+.card-info h2 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #191919;
+}
+
+.card-info ul {
+    margin-bottom: 20px;
+    color: #191919;
+}
+
+.card-info ul li {
+    list-style-type: disc;
+    margin-left: 20px;
+    color: #191919;
+}
+
+.card-info p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #191919;
+    margin-bottom: 6px;
+    text-align: justify; 
+}
+
+.card-share {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.card-share a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #b2b2b2;
+    margin-right: 10px;
+    color: #191919;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.card .github:hover {
+    color: black;
+}
+
+.card .twitter:hover {
+    color: #1DA1F2;
+}
+
+.card .instagram:hover {
+    color: #c13584;
+}
