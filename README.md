@@ -12,7 +12,6 @@
 - [Layout](#layout)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Collaborators](#collaborators)
 - [Contribute](#contribute)
 
 ## Layout
