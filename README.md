@@ -16,7 +16,7 @@
 
 ## Layout
 <p align="center">
-    <img src="./assets/images/demonstrarion.gif" alt="Image Example" width="400px">
+    <img src="assets/images/demonstrarion.gif" alt="Image Example" width="400px">
     
 </p>
 
@@ -38,7 +38,6 @@ Clone the repository to your local machine:
 git clone https://github.com/LimeHawk/LimeHawk.github.io
 ```
 
-## contribute
 <h2 id="contribute">📫 Contribute</h2>
 
 Follow the pattern and the guide below
